@@ -1,0 +1,25 @@
+{
+  "name": "todo-list-api-project",
+  "version": "1.0.0",
+  "description": "Making our own API with Node.js, MongoDB and JSON",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robert-Queeney/TODO-List-API-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Robert-Queeney/TODO-List-API-Project/issues"
+  },
+  "homepage": "https://github.com/Robert-Queeney/TODO-List-API-Project#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongoose": "^5.4.8"
+  }
+}
